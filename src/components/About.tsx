@@ -42,7 +42,7 @@ export default function About() {
           <div className="mt-12 lg:mt-0">
             <div className="relative max-w-md mx-auto">
               <img
-                src="/src/components/Rahul.jpg"
+                src="https://images.unsplash.com/photo-1730348204580-6e56f25dddeb?q=80&w=1935&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
                 alt="Professional headshot"
                 className="rounded-lg shadow-xl w-full h-auto"
               />
