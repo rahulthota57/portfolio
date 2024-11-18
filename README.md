@@ -1,3 +1,3 @@
 # portfolio
 
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/rahulthota57/portfolio)
+[Click here To View My portfolio](https://rahulthota.netlify.app/)
